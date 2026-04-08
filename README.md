@@ -26,10 +26,10 @@ Na primeira vez o build pode demorar alguns minutos.
 
 ### 3. Acessar no navegador
 
-| | URL |
-|---|-----|
-| Aplicação | [http://localhost](http://localhost) |
-| Swagger | [http://localhost/swagger-ui.html](http://localhost/swagger-ui.html) |
+|           | URL                                                                              |
+| --------- | -------------------------------------------------------------------------------- |
+| Aplicação | [http://localhost](http://localhost)                                             |
+| Swagger   | [http://localhost/swagger-ui/index.html](http://localhost/swagger-ui/index.html) |
 
 ### 4. Login inicial (admin)
 
