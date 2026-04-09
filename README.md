@@ -2,6 +2,11 @@
 
 Stack com **Docker Compose**: PostgreSQL, API (Spring Boot), front (React) e Nginx na porta 80. A API e o front são construídas a partir dos repositórios remotos definidos no `docker-compose.yml`.
 
+## Repositórios
+
+- API: [https://github.com/RivysonClaudio/desafio-pneubras-api](https://github.com/RivysonClaudio/desafio-pneubras-api)
+- WEB: [https://github.com/RivysonClaudio/desafio-pneubras-web](https://github.com/RivysonClaudio/desafio-pneubras-web)
+
 ## Pré-requisitos
 
 - [Docker](https://docs.docker.com/get-docker/) e [Docker Compose](https://docs.docker.com/compose/)
